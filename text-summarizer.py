@@ -104,4 +104,4 @@ The cryptocurrency space grapples with challenges such as price volatility, regu
 Looking ahead, the future of cryptocurrency involves trends like CBDC development, blockchain innovations, and the rise of Non-Fungible Tokens (NFTs). These unique digital assets, verifying authenticity and ownership, find applications in art, gaming, and entertainment.
 
 In conclusion, cryptocurrency, born from a quest for financial autonomy, reshapes global economies. Technological foundations, market dynamics, and ongoing innovations underscore its potential. While challenges persist, cryptocurrency's trajectory promises a decentralized and inclusive financial landscape, marking the next chapter in the digital revolution.'''
-generate_summary("/kaggle/input/crypto1/msft.txt", reference_summary)
+generate_summary("/kaggle/input/crypto1/original.txt", reference_summary)
